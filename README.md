@@ -67,15 +67,15 @@ npm start
 
 ## Screenshots
 ### 🌍 Home Page
-https://github.com/user-attachments/assets/861a27d4-d90f-43a8-bbd3-2b12ffe09f1e
+![image](https://github.com/user-attachments/assets/861a27d4-d90f-43a8-bbd3-2b12ffe09f1e)
+
 
 ### 📊 Disaster Prediction Dashboard
-![Dashboard](![image](https://github.com/user-attachments/assets/a8daa3d8-a3dc-4baa-b1f8-add871af6064)
-)
+![image](https://github.com/user-attachments/assets/a8daa3d8-a3dc-4baa-b1f8-add871af6064)
+
 
 ### 🔍 Prediction Results
-![Prediction Results](![image](https://github.com/user-attachments/assets/7ff154e4-53e5-4e37-b839-58966c2d08b6)
-)
+![image](https://github.com/user-attachments/assets/7ff154e4-53e5-4e37-b839-58966c2d08b6)
 
 ---
 
