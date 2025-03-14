@@ -14,9 +14,8 @@ This project aims to predict natural disasters such as **earthquakes, floods, an
 ## Tech Stack
 - **Frontend**: React.js, Tailwind CSS
 - **Backend**: Flask, Python
-- **ML Libraries**: Pandas, NumPy, Scikit-Learn, TensorFlow/PyTorch (if applicable)
+- **ML Libraries**: Pandas, NumPy, Scikit-Learn
 - **Data Visualization**: Matplotlib, Seaborn
-- **Database**: SQLite/PostgreSQL (if applicable)
 
 ---
 
@@ -46,8 +45,8 @@ Once the model is trained and tested, it is integrated into a Flask API to serve
 ## Installation & Setup
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/disaster-prediction-ml.git
-cd disaster-prediction-ml
+git clone https://github.com/Abhishek142004/Disaster-Prediction-ML-Project.git
+cd Disaster-Prediction-ML-Project
 ```
 
 ### 2️⃣ Backend Setup (Flask)
@@ -68,13 +67,16 @@ npm start
 
 ## Screenshots
 ### 🌍 Home Page
-![Home Page](screenshots/homepage.png)
+![Home Page](![image](https://github.com/user-attachments/assets/861a27d4-d90f-43a8-bbd3-2b12ffe09f1e)
+)
 
 ### 📊 Disaster Prediction Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](![image](https://github.com/user-attachments/assets/a8daa3d8-a3dc-4baa-b1f8-add871af6064)
+)
 
 ### 🔍 Prediction Results
-![Prediction Results](screenshots/prediction_results.png)
+![Prediction Results](![image](https://github.com/user-attachments/assets/7ff154e4-53e5-4e37-b839-58966c2d08b6)
+)
 
 ---
 
@@ -97,9 +99,5 @@ Contributions are welcome! Feel free to fork the repo, create a new branch, and 
 
 ---
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-🚀 **Let's build a safer world with AI!** 🌍
 
 
